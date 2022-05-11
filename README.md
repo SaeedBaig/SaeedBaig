@@ -1,4 +1,7 @@
-autistic coding cunt; your best friend in documentation and worst nightmare in code reviews; live for the latest language features; DRYs code for fun; quotes 'Clean Code' religiously
+- Your best friend in documentation and worst nightmare in code reviews
+- lives for the latest language features
+- DRYs code for fun
+- Will quote 'Clean Code' to you
 
 @devs stop neglecting your READMEs; no one wants to decipher your dusty dinosaur code to figure out how to build & run
 
