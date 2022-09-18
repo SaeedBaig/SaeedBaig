@@ -3,7 +3,7 @@
 - DRYs code for fun
 - Will quote 'Clean Code' to you
 
-@devs stop neglecting your READMEs; no one should have to decipher your dusty dinosaur code to figure out how to build & run
+@devs stop neglecting your READMEs; no one should have to decipher dusty dinosaur code to figure out how to build & run
 
 <!---
 SaeedBaig/SaeedBaig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
