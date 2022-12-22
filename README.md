@@ -1,5 +1,5 @@
 - Your best friend in documentation and worst nightmare in code reviews
-- lives for the latest language features
+- Lives for the latest language features
 - DRYs code for fun
 - Will quote 'Clean Code' to you
 
